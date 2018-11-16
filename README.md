@@ -3,6 +3,7 @@
 一个基于 Python 3 的 MOOC 课程下载工具，可以获取 [中国大学MOOC](https://www.icourse163.org/)、[学堂在线](http://www.xuetangx.com/)、[网易云课堂 MOOC](http://mooc.study.163.com/)、[好大学在线](https://www.cnmooc.org/)、[爱课程](http://www.icourses.cn/) 的课件，方便离线观看。
 
 详细信息见 [https://mooc.xoy.io/](https://mooc.xoy.io/)。
+
 详细操作步骤见 https://mp.weixin.qq.com/s/66TfkOy59B_mVnPek2xx_Q
 
 ### 声明
